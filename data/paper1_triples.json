@@ -1,0 +1,422 @@
+[
+  {
+    "s": "Attention Is All You Need",
+    "s_type": "Paper",
+    "r": "PROPOSES",
+    "o": "Transformer",
+    "o_type": "Architecture"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Method",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Method",
+    "r": "MEASURED_BY",
+    "o": "BLEU",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Method",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-French",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-French translation task",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "MEASURED_BY",
+    "o": "BLEU",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "English constituency parsing",
+    "o_type": "Objective"
+  },
+  {
+    "s": "recurrent neural networks",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "sequence modeling and transduction problems",
+    "o_type": "Objective"
+  },
+  {
+    "s": "long short-term memory",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "sequence modeling and transduction problems",
+    "o_type": "Objective"
+  },
+  {
+    "s": "gated recurrent neural networks",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "sequence modeling and transduction problems",
+    "o_type": "Objective"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "Transformer",
+    "o_type": "Model"
+  },
+  {
+    "s": "Extended Neural GPU",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "convolutional neural networks",
+    "o_type": "Method"
+  },
+  {
+    "s": "ByteNet",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "convolutional neural networks",
+    "o_type": "Method"
+  },
+  {
+    "s": "ConvS2S",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "convolutional neural networks",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "Multi-Head Attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "Self-attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "End-to-end memory networks",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "recurrent attention mechanism",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "model architecture",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "self-attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "encoder",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "decoder",
+    "o_type": "Method"
+  },
+  {
+    "s": "Scaled Dot-Product Attention",
+    "s_type": "Method",
+    "r": "PROPOSES",
+    "o": "Multi-Head Attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Scaled Dot-Product Attention",
+    "s_type": "Method",
+    "r": "IMPROVES_OVER",
+    "o": "additive attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "additive attention",
+    "s_type": "Method",
+    "r": "IMPROVES_OVER",
+    "o": "dot product attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Multi-Head Attention",
+    "s_type": "Method",
+    "r": "PROPOSES",
+    "o": "Multi-Head Attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "Multi-head attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "encoder-decoder attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "self-attention",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "self-attention layers",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "Position-wise Feed-Forward Networks",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "Positional Encoding",
+    "o_type": "Method"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "learned positional embeddings",
+    "o_type": "Method"
+  },
+  {
+    "s": "self-attention layer",
+    "s_type": "Method",
+    "r": "PROPOSES",
+    "o": "sequential operations",
+    "o_type": "Metric"
+  },
+  {
+    "s": "recurrent layer",
+    "s_type": "Method",
+    "r": "PROPOSES",
+    "o": "sequential operations",
+    "o_type": "Metric"
+  },
+  {
+    "s": "self-attention",
+    "s_type": "Method",
+    "r": "PROPOSES",
+    "o": "interpretable models",
+    "o_type": "Objective"
+  },
+  {
+    "s": "separable convolutions",
+    "s_type": "Method",
+    "r": "MEASURED_BY",
+    "o": "O(k \u00b7 n \u00b7 d + n \u00b7 d2)",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-French",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "USES",
+    "o": "Adam",
+    "o_type": "Algorithm"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "English-to-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "English-to-French",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "MEASURED_BY",
+    "o": "BLEU",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer (big)",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer (big)",
+    "s_type": "Model",
+    "r": "IMPROVES_OVER",
+    "o": "ByteNet",
+    "o_type": "Model"
+  },
+  {
+    "s": "Transformer (big)",
+    "s_type": "Model",
+    "r": "IMPROVES_OVER",
+    "o": "ConvS2S",
+    "o_type": "Model"
+  },
+  {
+    "s": "Transformer (big)",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer (big)",
+    "s_type": "Model",
+    "r": "MEASURED_BY",
+    "o": "BLEU",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer (big)",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-French",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "English-to-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "newstest2013",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "MEASURED_BY",
+    "o": "BLEU",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "English Constituency Parsing",
+    "o_type": "Objective"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "Penn Treebank",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Section 22 development set",
+    "s_type": "Dataset",
+    "r": "EVALUATED_ON",
+    "o": "English-to-German base translation model",
+    "o_type": "Model"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WSJ 23",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "MEASURED_BY",
+    "o": "F1",
+    "o_type": "Metric"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "IMPROVES_OVER",
+    "o": "Berkeley-Parser",
+    "o_type": "Model"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "PROPOSES",
+    "o": "Transformer",
+    "o_type": "Model"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-German",
+    "o_type": "Dataset"
+  },
+  {
+    "s": "Transformer",
+    "s_type": "Model",
+    "r": "EVALUATED_ON",
+    "o": "WMT 2014 English-to-French",
+    "o_type": "Dataset"
+  }
+]
