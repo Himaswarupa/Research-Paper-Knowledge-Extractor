@@ -1,9 +1,21 @@
-venv/
+# Secrets
 .env
+.env.*
+
+# Python
+venv/
 __pycache__/
 *.pyc
-.DS_Store
-.vscode/
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Uploaded PDFs and generated files
+data/
+*.pdf
 graph.html
-lib/
-data/*.pdf
+
+# Editor/system files
+.vscode/
+.DS_Store
